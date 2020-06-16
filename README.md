@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 국비지원 개발 과정 (ko) 
  - 기간 : 2019.12.02 ~ 2020.06.01  
  - 과정명 : JAVA기반의 스마트 웹 앱콘텐츠 양성과정  
@@ -33,3 +34,6 @@
  - Repository: https://github.com/caskercasker/Davinci  
 3. Oracle / SQL  
  - Period: 28 Jan, 2020 ~ In progress  
+=======
+# SIST-JAVA
+>>>>>>> branch 'master' of https://github.com/sbcho0630/SIST-JAVA.git
