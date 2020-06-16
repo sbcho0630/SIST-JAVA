@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 ## 국비지원 개발 과정 (ko) 
- - 기간 : 2019.12.02 ~ 2020.06.01  
+ - 기간 : 2019.12.02 ~ 2020.06.11  
  - 과정명 : JAVA기반의 스마트 웹 앱콘텐츠 양성과정  
  - 훈련 기관명 : 쌍용강북교육센터 (www.sist.co.kr)   
  - 커리큘럼 : Java, Oracle, SQL, HTML/CSS/JavaScript, Spring   
@@ -34,6 +34,4 @@
  - Repository: https://github.com/caskercasker/Davinci  
 3. Oracle / SQL  
  - Period: 28 Jan, 2020 ~ In progress  
-=======
-# SIST-JAVA
->>>>>>> branch 'master' of https://github.com/sbcho0630/SIST-JAVA.git
+
